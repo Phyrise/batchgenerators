@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='batchgenerators',
+setup(name='batchgenerators_translation',
       version='0.25',
       description='Data augmentation toolkit',
       url='https://github.com/MIC-DKFZ/batchgenerators',
