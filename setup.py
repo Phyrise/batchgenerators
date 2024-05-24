@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(name='batchgenerators_translation',
       version='0.25',
       description='Data augmentation toolkit',
-      url='https://github.com/MIC-DKFZ/batchgenerators',
+      url='https://github.com/Phyrise/batchgenerators_translation',
       author='Division of Medical Image Computing, German Cancer Research Center AND Applied Computer Vision Lab, '
              'Helmholtz Imaging Platform',
       author_email='f.isensee@dkfz-heidelberg.de',
