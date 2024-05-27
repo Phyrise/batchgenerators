@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
-setup(name='batchgenerators_translation',
+setup(name='batchgenerators',
       version='0.25',
       description='Data augmentation toolkit',
-      url='https://github.com/Phyrise/batchgenerators_translation',
+      url='https://github.com/Phyrise/batchgenerators',
       author='Division of Medical Image Computing, German Cancer Research Center AND Applied Computer Vision Lab, '
              'Helmholtz Imaging Platform',
       author_email='f.isensee@dkfz-heidelberg.de',
