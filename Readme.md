@@ -1,4 +1,4 @@
-# batchgenerators_translation [In Progress]
+# batchgenerators_translation 
 This repository adapts the batchgenerators for image-to-image translation tasks. It is based on the original repository found at [MIC-DKFZ/batchgenerators](https://github.com/MIC-DKFZ/batchgenerators).
 
 ## Changes Made
